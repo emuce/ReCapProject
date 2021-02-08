@@ -1,0 +1,14 @@
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\YGYK\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\YGYK\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb

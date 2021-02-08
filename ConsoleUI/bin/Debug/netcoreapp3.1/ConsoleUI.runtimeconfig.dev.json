@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\erene\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erene\\.nuget\\packages"
+    ]
+  }
+}
